@@ -69,6 +69,6 @@
 <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 </p>
 ------------
-GitMemory: https://gitmemory.com/firdavsDev
+GitMemory: https://gitmemory.com/ShukuraliProgrammer
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
