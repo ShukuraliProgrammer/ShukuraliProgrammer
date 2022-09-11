@@ -49,20 +49,20 @@
 **Contact**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/shukurali-rezamonov-614042218/)](https://www.linkedin.com/in/shukurali-rezamonov-614042218/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xackercoder@gmail.com)](mailto:xackercoder@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/firdavs_dev)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shukurdev2002@gmail.com)](mailto:shukurdev2002@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Shukurali_Rezamonov)](https://t.me/Shukurali_Rezamonov)
 
 <p> 
-<img src="https://komarev.com/ghpvc/?username=firdavsDev&color=brightgreen" alt="firdavsDev"/>
-<a href="https://github.com/firdavsDev?tab=followers">
-    <img src="https://img.shields.io/github/followers/firdavsDev?label=Followers&style=social" alt="followers-count">
+<img src="https://komarev.com/ghpvc/?username=ShukuraliProgrammer&color=brightgreen" alt="ShukuraliProgrammer"/>
+<a href="https://github.com/ShukuraliProgrammer?tab=followers">
+    <img src="https://img.shields.io/github/followers/ShukuraliProgrammer?label=Followers&style=social" alt="followers-count">
 </a>
 
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=firdavsDev&theme=xcode" />
+<img src="https://activity-graph.herokuapp.com/graph?username=ShukuraliProgrammer&theme=xcode" />
 <!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=firdavsDev&margin-w=5&theme=radical" alt="info" />
+<img src="https://github-profile-trophy.vercel.app/?username=ShukuraliProgrammer&margin-w=5&theme=radical" alt="info" />
 
 <p>
   <img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
