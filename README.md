@@ -11,5 +11,5 @@
 [![asakew's github stats](https://github-readme-stats.vercel.app/api?username=ShukuraliProgrammer&theme=github_dark&show_icons=true)](https://github.com/ShukuraliProgrammer/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=firdavsDev&theme=tokyonight_duo&hide_border=true)](https://github.com/firdavsDev/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShukuraliProgrammer&theme=tokyonight_duo&hide_border=true)](https://github.com/ShukuraliProgrammer/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
