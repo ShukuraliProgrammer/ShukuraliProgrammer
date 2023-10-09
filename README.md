@@ -28,11 +28,6 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![SQLite](https://img.shields.io/badge/-Sqlite-%232c3e50?style=flat-square&logo=Sqlite)
 
-**Front-end**
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
@@ -51,23 +46,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/shukurali-rezamonov-614042218/)](https://www.linkedin.com/in/shukurali-rezamonov-614042218/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shukurdev2002@gmail.com)](mailto:shukurdev2002@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Shukurali_Rezamonov)](https://t.me/Shukurali_Rezamonov)
-
-<p> 
-<img src="https://komarev.com/ghpvc/?username=ShukuraliProgrammer&color=brightgreen" alt="ShukuraliProgrammer"/>
-<a href="https://github.com/ShukuraliProgrammer?tab=followers">
-    <img src="https://img.shields.io/github/followers/ShukuraliProgrammer?label=Followers&style=social" alt="followers-count">
-</a>
-
-</p>
-<img src="https://activity-graph.herokuapp.com/graph?username=ShukuraliProgrammer&theme=xcode" />
-<!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShukuraliProgrammer&margin-w=5&theme=radical" alt="info" />
-
-<p>
-  <img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
-<img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
-</p>
-------------
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
