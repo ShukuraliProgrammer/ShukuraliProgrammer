@@ -43,6 +43,6 @@
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shukurali-rezamonov/)](https://www.linkedin.com/in/shukurali-rezamonov-614042218/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shukurali-rezamonov/)](https://www.linkedin.com/in/shukurali-rezamonov/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shukuralijob@gmail.com)](mailto:shukurdev2002@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Shukurali_Rezamonov)](https://t.me/Shukurali_Rezamonov)
